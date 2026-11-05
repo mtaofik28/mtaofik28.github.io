@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.mtaofik28.popicetoping",
+        "sha256_cert_fingerprints": ["88:D3:0A:49:AE:CC:4B:E1:72:D7:44:B9:39:80:73:E9:00:BF:30:1D:CE:92:10:A2:15:B4:DA:77:12:90:79:2A"]
+      }
+    }]
